@@ -28,7 +28,9 @@ Exam Revision Notes
     -   [Streaming](#streaming)
         -   [TCP vs UDP](#tcp-vs-udp)
         -   [Protocols](#protocols)
+        
 -   [Transport Layer](#transport-layer)
+
         -   [Encapsulation](#encapsulation)
         -   [Reliable vs Unreliable](#reliable-vs-unreliable)
         -   [Addressing (Port Numbers)](#addressing-port-numbers)
